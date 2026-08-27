@@ -1,4 +1,4 @@
-# Pixel Processor with 4x4 Systolic Array Accelerator
+# Custom RISC CPU with Systolic Matrix Accelerator
 
 A synthesizable System-on-Chip (SoC) architecture designed in Verilog HDL, integrating a custom pipelined RISC CPU core with a dedicated 2D 4x4 systolic array coprocessor for accelerated 2D image filtering, convolution, and matrix processing.
 
