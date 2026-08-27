@@ -1,0 +1,10 @@
+# Vivado & Simulation Artifacts
+*.log
+*.jou
+*.pb
+*.wdb
+*.vcd
+xsim.dir/
+.Xil/
+*.str
+*.dmp
